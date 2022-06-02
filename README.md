@@ -1,5 +1,9 @@
 # Act2
 
+![imagen](https://user-images.githubusercontent.com/9555509/171757934-f5b577e8-e086-4150-a85c-fa3431df0245.png)
+
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.7.
 
 ## Development server
